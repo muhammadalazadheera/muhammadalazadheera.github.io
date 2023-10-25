@@ -1,5 +1,5 @@
 // Define the URL of your Markdown file.
-const markdownFileURL = "readme.md";
+const markdownFileURL = "../../readme.md";
 
 // Select the container where the HTML content will be displayed.
 const markdownContainer = document.getElementById("markdown-container");

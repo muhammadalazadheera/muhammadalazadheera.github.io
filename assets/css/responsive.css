@@ -1,0 +1,15 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  .img {
+    width: 100%;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  #main {
+    width: 95%;
+    box-sizing: border-box;
+    padding: 50px 5%;
+  }
+}
