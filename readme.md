@@ -34,16 +34,16 @@ Intro
 
 <p align="center">
  <a href="https://muhammadalazadheera.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="muhammadalazadheera" />
  </a>
  <a href="https://linkedin.com/in/muhammadalazadheera" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadalazadheera"/>
  </a>
  <a href="https://instagram.com/muhammadalazadheera" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="muhammadalazadheera" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.facebook.com/muhammadalazadheera/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="muhammadalazadheera"  />
   </a> 
 </p>
 <br /><hr>
@@ -177,20 +177,20 @@ Github Repoes
 <br />
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+  <a target="_blank" href="https://github.com/muhammadalazadheera/portfolio-laravel-pos">
+  <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=portfolio-laravel-pos&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg">
   </a>
   
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+  <a target="_blank" href="https://github.com/muhammadalazadheera/facebook_messenger_ext">
+    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=facebook_messenger_ext&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats">
   </a>
 
-  <a href="https://github.com/DenverCoder1/custom-icon-badges">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges">
+  <a target="_blank" href="https://github.com/muhammadalazadheera/wallpulse">
+    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=muhammadalazadheera&repo=wallpulse&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
   </a>
 
-  <a href="https://github.com/DenverCoder1/unedit-for-reddit">
-    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit">
+  <a target="_blank" href="https://github.com/muhammadalazadheera/html-css-js-projects">
+    <img class="img" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=muhammadalazadheera&repo=html-css-js-projects&theme=react&bg_color=1F222E&title_color=2ea44f&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit">
   </a>
 </p>
 <br />
